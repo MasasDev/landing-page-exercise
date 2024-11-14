@@ -1,0 +1,33 @@
+.section2{
+    padding-bottom: 140px;
+}
+.section2 h2{
+    text-align: center;
+    font-weight: 900;
+    font-size: 36px;
+}
+.section2 .info-container{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 40px;
+}
+
+.section2 .info-container .info{
+    height: 150px;
+    width: 150px;
+}
+
+.section2 .info-container .info .tile{
+    height: 150px;
+    width: 150px;
+    background-color: #ffffff;
+    border: 3px solid #3882F6;
+    border-radius: 15px;
+}
+
+.section2 .info-container .info .tile-text{
+    text-align: center;
+    margin-top: 10px;
+    color: #4c4d50;
+}
