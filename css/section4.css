@@ -3,10 +3,11 @@
 }
 .section4 .call-to-action-container{
     background-color: #3882F6;
-    padding: 40px 100px;
+    padding: 40px;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     border-radius: 10px;
+    gap: 50px;
 }
 .section4 .call-to-action-container .call-to-action .call-to-action-title{
     color: #F9FAF8;
